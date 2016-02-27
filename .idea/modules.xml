@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/examMaven/examMaven.iml" filepath="$PROJECT_DIR$/examMaven/examMaven.iml" />
       <module fileurl="file://$PROJECT_DIR$/examinator.iml" filepath="$PROJECT_DIR$/examinator.iml" />
     </modules>
   </component>
